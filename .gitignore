@@ -7,4 +7,4 @@
 /plugin.xml
 /grails-app/taglib/mysql-connector-java-5.1.14-bin.jar
 /stacktrace.log
-/wrapper
+/bin
